@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.93a2da6e.css",
-    "main.js": "/static/js/main.1ec43d99.js",
-    "static/media/gritty-wear-screenshot.png": "/static/media/gritty-wear-screenshot.1bc77f28b45ce5aa694e.png",
-    "static/media/ars-animatio-screenshot.png": "/static/media/ars-animatio-screenshot.b503c36214d0d6bcbb1f.png",
-    "index.html": "/index.html",
-    "main.93a2da6e.css.map": "/static/css/main.93a2da6e.css.map",
-    "main.1ec43d99.js.map": "/static/js/main.1ec43d99.js.map"
+    "main.css": "/portfolio-via-react/static/css/main.93a2da6e.css",
+    "main.js": "/portfolio-via-react/static/js/main.a882b0a1.js",
+    "static/media/gritty-wear-screenshot.png": "/portfolio-via-react/static/media/gritty-wear-screenshot.1bc77f28b45ce5aa694e.png",
+    "static/media/ars-animatio-screenshot.png": "/portfolio-via-react/static/media/ars-animatio-screenshot.b503c36214d0d6bcbb1f.png",
+    "index.html": "/portfolio-via-react/index.html",
+    "main.93a2da6e.css.map": "/portfolio-via-react/static/css/main.93a2da6e.css.map",
+    "main.a882b0a1.js.map": "/portfolio-via-react/static/js/main.a882b0a1.js.map"
   },
   "entrypoints": [
     "static/css/main.93a2da6e.css",
-    "static/js/main.1ec43d99.js"
+    "static/js/main.a882b0a1.js"
   ]
 }
