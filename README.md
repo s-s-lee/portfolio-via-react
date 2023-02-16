@@ -48,7 +48,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 * [Heroku](https://www.heroku.com/) -->
 
 ## Preview
-<img src='./img/web-text-editor-screenshot.png' alt='image of Susans portfolio'/>
+<img src='./img/react-portfolio-screenshot.png' alt='image of Susans portfolio'/>
 
 
 ## Licensing

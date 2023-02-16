@@ -1,4 +1,16 @@
-.App {
+.icon {
+  height: 30px;
+}
+
+.card {
+  align-items: center;
+}
+
+.form {
+  align-items: center;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
