@@ -16,7 +16,7 @@ function Projects() {
                                     A Gritty t-shirt shop with a twist
                                 </Card.Text>
                                 <Card.Link href="https://github.com/s-s-lee/Gritty-Wear">GitHub</Card.Link>
-                                <Card.Link href="#">Deployed</Card.Link>
+                                <Card.Link href="https://grittywear.herokuapp.com/">Deployed</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>                
